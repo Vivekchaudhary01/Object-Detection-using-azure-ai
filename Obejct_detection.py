@@ -8,9 +8,9 @@ import numpy as np
 st.title("Azure Custom Vision Object Detection")
 
 # Replace these with your actual Azure Custom Vision details
-project_id = 'b1b96273-8846-4f8b-ac46-beb6a5dd21dc' # Replace with your project ID
-cv_key = '28d96864d3324a7dac21fa10ffda2f4b' # Replace with your prediction resource primary key
-cv_endpoint = 'https://obejctdetect-prediction.cognitiveservices.azure.com/' # Replace with your prediction resource endpoint
+project_id = 'your project ID' # Replace with your project ID
+cv_key = 'your resource primary key' # Replace with your prediction resource primary key
+cv_endpoint = 'your resource endpoint' # Replace with your prediction resource endpoint
 
 model_name = 'detect-produce'  # Replace with your actual model name
 st.write(f'Ready to predict using model **{model_name}** in project **{project_id}**')
