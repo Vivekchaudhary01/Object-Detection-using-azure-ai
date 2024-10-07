@@ -13,6 +13,7 @@ If you have already cloned **mslearn-ai-vision** code repository to the environm
 4. Wait while additional files are installed to support the C# code projects in the repo.
 
     > **Note**: If you are prompted to add required assets to build and debug, select **Not Now**.
+    
 
 ## Create Custom Vision resources
 
